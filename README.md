@@ -11,7 +11,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Multi-Currency-Cross-Border-Billing/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Multi-Currency-Cross-Border-Billing/graphs/commit-activity)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Currency-Cross-Border-Billing?style=social)](https://github.com/ishandutta2007/Awesome-Multi-Currency-Cross-Border-Billing/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Currency-Cross-Border-Billing?style=social)](https://github.com/ishandutta2007/Awesome-Multi-Currency-Cross-Border-Billing/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
@@ -134,12 +134,12 @@ Self-hosted, community-driven Multi-Currency and Cross-Border Billing tools. The
 
 ### Open-Source Solutions Overview
 
-> Repositories below are ordered descending by **GitHub Stargazers**. Star badges update dynamically and link straight to each project's stargazers community.
+> Repositories below are ordered descending by **GitHub Stargazers**. Stars_Badges update dynamically and link straight to each project's stargazers community.
 
 ---
 
 ### ERPNext
-<a href="https://github.com/frappe/erpnext/stargazers"><img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="ERPNext GitHub Stars" /></a>
+<a href="https://github.com/frappe/erpnext/stargazers"><img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="ERPNext GitHub_Stars" /></a>
 * **Repository:** [frappe/erpnext](https://github.com/frappe/erpnext)
 * **Stack:** Python / MariaDB / Frappe Framework / Redis / JavaScript | **License:** GPL-3.0
 * **Architecture:** Enterprise-grade monolithic ERP featuring native multi-company, multi-currency accounting ledgers. Tracks daily currency exchange rate tables with automatic unrealized and realized forex gain/loss calculations upon payment reconciliation.
@@ -147,7 +147,7 @@ Self-hosted, community-driven Multi-Currency and Cross-Border Billing tools. The
 * **Best for:** Growing international enterprises requiring a complete, zero-licensing-fee ERP with full accounting and cross-border supply chain billing.
 
 ### Hyperswitch
-<a href="https://github.com/juspay/hyperswitch/stargazers"><img src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white" alt="Hyperswitch GitHub Stars" /></a>
+<a href="https://github.com/juspay/hyperswitch/stargazers"><img src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white" alt="Hyperswitch GitHub_Stars" /></a>
 * **Repository:** [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 * **Stack:** Rust / PostgreSQL / Redis / Actix-web | **License:** Apache-2.0
 * **Architecture:** High-performance open-source financial switch and payment router. Integrates with 200+ global connectors, routing each transaction to the optimal local payment processor based on currency, geography, card brand, and transaction fee.
@@ -155,7 +155,7 @@ Self-hosted, community-driven Multi-Currency and Cross-Border Billing tools. The
 * **Best for:** Cross-border SaaS platforms and high-volume e-commerce brands looking to slash payment decline rates and optimize processing costs without vendor lock-in.
 
 ### Lago
-<a href="https://github.com/getlago/lago/stargazers"><img src="https://img.shields.io/github/stars/getlago/lago?style=social&color=white" alt="Lago GitHub Stars" /></a>
+<a href="https://github.com/getlago/lago/stargazers"><img src="https://img.shields.io/github/stars/getlago/lago?style=social&color=white" alt="Lago GitHub_Stars" /></a>
 * **Repository:** [getlago/lago](https://github.com/getlago/lago)
 * **Stack:** Ruby on Rails / PostgreSQL / Redis / ClickHouse / React | **License:** AGPL-3.0
 * **Architecture:** Modular metering and recurring billing engine built as an open-source alternative to Stripe Billing and Chargebee. Supports usage-based, subscription, tiered, and prepaid credit models.
@@ -163,7 +163,7 @@ Self-hosted, community-driven Multi-Currency and Cross-Border Billing tools. The
 * **Best for:** Modern software and AI platforms requiring flexible consumption-based metering and global multi-currency subscription management.
 
 ### Invoice Ninja
-<a href="https://github.com/invoiceninja/invoiceninja/stargazers"><img src="https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white" alt="Invoice Ninja GitHub Stars" /></a>
+<a href="https://github.com/invoiceninja/invoiceninja/stargazers"><img src="https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white" alt="Invoice Ninja GitHub_Stars" /></a>
 * **Repository:** [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)
 * **Stack:** PHP / Laravel / MySQL / Flutter | **License:** Elastic License 2.0
 * **Architecture:** Full-featured client management, project tracking, expense management, and invoicing suite with cross-platform desktop and mobile clients.
@@ -171,7 +171,7 @@ Self-hosted, community-driven Multi-Currency and Cross-Border Billing tools. The
 * **Best for:** Freelancers, digital agencies, and independent consultancies managing an international clientele across borders.
 
 ### Akaunting
-<a href="https://github.com/akaunting/akaunting/stargazers"><img src="https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white" alt="Akaunting GitHub Stars" /></a>
+<a href="https://github.com/akaunting/akaunting/stargazers"><img src="https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white" alt="Akaunting GitHub_Stars" /></a>
 * **Repository:** [akaunting/akaunting](https://github.com/akaunting/akaunting)
 * **Stack:** PHP / Laravel / MySQL | **License:** GPL-3.0 (Core)
 * **Architecture:** Modular, web-based accounting and bookkeeping software with a comprehensive app marketplace for localized banking and invoicing extensions.
@@ -179,7 +179,7 @@ Self-hosted, community-driven Multi-Currency and Cross-Border Billing tools. The
 * **Best for:** Small-to-medium businesses wanting complete data privacy on self-hosted servers with standard international invoicing requirements.
 
 ### Crater
-<a href="https://github.com/crater-invoice-inc/crater/stargazers"><img src="https://img.shields.io/github/stars/crater-invoice-inc/crater?style=social&color=white" alt="Crater GitHub Stars" /></a>
+<a href="https://github.com/crater-invoice-inc/crater/stargazers"><img src="https://img.shields.io/github/stars/crater-invoice-inc/crater?style=social&color=white" alt="Crater GitHub_Stars" /></a>
 * **Repository:** [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater)
 * **Stack:** PHP / Laravel / Vue.js / Flutter / MySQL | **License:** AGPL-3.0
 * **Architecture:** Clean, lightweight invoice and payment tracking web application accompanied by native iOS and Android companion apps.
@@ -187,7 +187,7 @@ Self-hosted, community-driven Multi-Currency and Cross-Border Billing tools. The
 * **Best for:** Small business owners and contractors wanting a distraction-free, elegant self-hosted billing system.
 
 ### BTCPay Server
-<a href="https://github.com/btcpayserver/btcpayserver/stargazers"><img src="https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=social&color=white" alt="BTCPay Server GitHub Stars" /></a>
+<a href="https://github.com/btcpayserver/btcpayserver/stargazers"><img src="https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=social&color=white" alt="BTCPay Server GitHub_Stars" /></a>
 * **Repository:** [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
 * **Stack:** C# / .NET / ASP.NET Core / PostgreSQL / Docker | **License:** MIT
 * **Architecture:** Non-custodial, open-source cryptocurrency payment processor. Directly connects with merchant full nodes, eliminating third-party financial intermediaries.
@@ -195,7 +195,7 @@ Self-hosted, community-driven Multi-Currency and Cross-Border Billing tools. The
 * **Best for:** Digital merchants and organizations seeking censorship-resistant, zero-processing-fee international payment settlement.
 
 ### Kill Bill
-<a href="https://github.com/killbill/killbill/stargazers"><img src="https://img.shields.io/github/stars/killbill/killbill?style=social&color=white" alt="Kill Bill GitHub Stars" /></a>
+<a href="https://github.com/killbill/killbill/stargazers"><img src="https://img.shields.io/github/stars/killbill/killbill?style=social&color=white" alt="Kill Bill GitHub_Stars" /></a>
 * **Repository:** [killbill/killbill](https://github.com/killbill/killbill)
 * **Stack:** Java / MySQL / PostgreSQL / OSGi | **License:** Apache-2.0
 * **Architecture:** Battle-tested, enterprise-grade subscription billing and payments platform in production since 2010. Engineered with an extensible plugin architecture to decouple billing mechanics from payment gateway connections.
@@ -203,7 +203,7 @@ Self-hosted, community-driven Multi-Currency and Cross-Border Billing tools. The
 * **Best for:** Established enterprises and financial institutions seeking an unencumbered Apache-2.0 licensed subscription platform with zero telemetry.
 
 ### Bigcapital
-<a href="https://github.com/bigcapitalhq/bigcapital/stargazers"><img src="https://img.shields.io/github/stars/bigcapitalhq/bigcapital?style=social&color=white" alt="Bigcapital GitHub Stars" /></a>
+<a href="https://github.com/bigcapitalhq/bigcapital/stargazers"><img src="https://img.shields.io/github/stars/bigcapitalhq/bigcapital?style=social&color=white" alt="Bigcapital GitHub_Stars" /></a>
 * **Repository:** [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital)
 * **Stack:** TypeScript / Node.js / Express / React / MySQL | **License:** AGPL-3.0
 * **Architecture:** Modern financial accounting and business management platform positioned as an open-source alternative to QuickBooks and Xero.
@@ -211,7 +211,7 @@ Self-hosted, community-driven Multi-Currency and Cross-Border Billing tools. The
 * **Best for:** Tech companies and digital businesses looking for a TypeScript-native multi-currency financial management solution.
 
 ### OpenMeter
-<a href="https://github.com/openmeterio/openmeter/stargazers"><img src="https://img.shields.io/github/stars/openmeterio/openmeter/stargazers"><img src="https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white" alt="OpenMeter GitHub Stars" /></a>
+<a href="https://github.com/openmeterio/openmeter/stargazers"><img src="https://img.shields.io/github/stars/openmeterio/openmeter/stargazers"><img src="https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white" alt="OpenMeter GitHub_Stars" /></a>
 * **Repository:** [openmeterio/openmeter](https://github.com/openmeterio/openmeter)
 * **Stack:** Go / ClickHouse / Kafka / PostgreSQL | **License:** Apache-2.0
 * **Architecture:** Cloud-native, high-throughput usage metering engine designed to process millions of real-time events per second for AI tokens, API calls, and compute clusters.
@@ -219,7 +219,7 @@ Self-hosted, community-driven Multi-Currency and Cross-Border Billing tools. The
 * **Best for:** AI companies and cloud infrastructure providers needing sub-millisecond usage aggregation paired with global billing systems.
 
 ### InvoiceShelf
-<a href="https://github.com/InvoiceShelf/InvoiceShelf/stargazers"><img src="https://img.shields.io/github/stars/InvoiceShelf/InvoiceShelf?style=social&color=white" alt="InvoiceShelf GitHub Stars" /></a>
+<a href="https://github.com/InvoiceShelf/InvoiceShelf/stargazers"><img src="https://img.shields.io/github/stars/InvoiceShelf/InvoiceShelf?style=social&color=white" alt="InvoiceShelf GitHub_Stars" /></a>
 * **Repository:** [InvoiceShelf/InvoiceShelf](https://github.com/InvoiceShelf/InvoiceShelf)
 * **Stack:** PHP / Laravel / Vue.js / MySQL | **License:** AGPL-3.0
 * **Architecture:** Genuinely open-source, fork-friendly web invoicing and accounting application built for freelancers and international teams.
@@ -227,7 +227,7 @@ Self-hosted, community-driven Multi-Currency and Cross-Border Billing tools. The
 * **Best for:** Teams looking for a straightforward, pure AGPL-licensed invoicing tool without commercial source-available restrictions.
 
 ### Bitcart
-<a href="https://github.com/bitcart/bitcart/stargazers"><img src="https://img.shields.io/github/stars/bitcart/bitcart?style=social&color=white" alt="Bitcart GitHub Stars" /></a>
+<a href="https://github.com/bitcart/bitcart/stargazers"><img src="https://img.shields.io/github/stars/bitcart/bitcart?style=social&color=white" alt="Bitcart GitHub_Stars" /></a>
 * **Repository:** [bitcart/bitcart](https://github.com/bitcart/bitcart)
 * **Stack:** Python / FastAPI / Vue.js / Docker | **License:** MIT
 * **Architecture:** Non-custodial multi-cryptocurrency payment processor supporting BTC, LTC, BCH, XMR, ETH, TRX, USDT, and Lightning Network.
@@ -290,7 +290,7 @@ Contributions, suggestions, and corrections are warmly welcomed! To suggest a ne
    - Project name, official website, and GitHub repository URL.
    - Tech stack, license, and primary architectural approach.
    - Objective benefits and clear trade-offs.
-   - For open-source tools: Include the `style=social&color=white` GitHub star badge linking to the repository stargazers page.
+   - For open-source tools: Include the `style=social&color=white` GitHub Stars_Badge linking to the repository stargazers page.
 4. Ensure all links and markdown formatting render correctly.
 5. Submit a Pull Request.
 
